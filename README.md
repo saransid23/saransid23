@@ -1,27 +1,54 @@
-<h1 align="center">Hi, I'm Saran 👋</h1>
+<div align="center">
 
-<h3 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Java+%2F+Full-Stack+Developer+%F0%9F%92%BB;Building.+Learning.+Growing.+%F0%9F%9A%80&center=true&width=500&height=40&color=58A6FF&vCenter=true&size=22" />
-</h3>
+```
+$ whoami
+```
 
+# Saran Siddarth
+### building things at the intersection of AI, code, and curiosity
+
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%A4%96+teaching+machines+to+be+useful;%E2%98%95+java+by+day%2C+side-projects+by+night;%F0%9F%9A%80+shipping+small%2C+learning+fast&center=true&width=480&height=35&color=39FF14&background=0D1117&vCenter=true&size=18&font=Fira+Code" />
+
+</div>
+
+<br>
+
+<details>
+<summary>💻 <b>What I actually do</b></summary>
+<br>
+
+- Building AI-flavored tools that solve real, small problems
+- Full-stack dev — Java at the core, JS/TS/Python when the job needs it
+- Currently obsessed with turning "boring calculations" into slick apps
+
+</details>
+
+<details>
+<summary>🧪 <b>Things I've shipped</b></summary>
+<br>
+
+| | |
+|---|---|
+| 🌐 **import-sense-AI** | tells you what that import from abroad *actually* costs |
+| 🏙️ **city-care** | lets citizens report potholes & AI sorts what's urgent |
+| 🔗 **url-shortener** | does exactly what it says, nothing more |
+
+</details>
+
+<details>
+<summary>⚡ <b>Stack</b></summary>
+<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saransid23&label=Profile%20Views&color=58a6ff" />
-  <img src="https://img.shields.io/github/followers/saransid23?label=Followers&color=58a6ff" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask&theme=dark" />
 </p>
+</details>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask" />
-</p>
+<br>
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=saransid23&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=saransid23&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-### 🌟 Check out
-[**import-sense-AI**](https://github.com/saransid23/import-sense-AI) · [**city-care**](https://github.com/saransid23/city-care) · [**url-shortener**](https://github.com/saransid23/url-shortener)
+`git commit -m "still learning, still building"`
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://github.com/saransid23">GitHub</a> · <a href="#">LinkedIn</a> · <a href="#">Email</a>
+
+</div>
