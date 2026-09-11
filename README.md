@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:39FF14&height=200&section=header&text=Saran%20Siddarth&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e2327,100:39FF14&amp;height=200&amp;section=header&amp;text=Saran%20Siddarth&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+tools+that+solve+real+problems;Java+at+the+core%2C+full-stack+when+it+counts;Learning.+Building.+Growing.+%F0%9F%9A%80&center=true&width=550&height=35&color=39FF14&vCenter=true&size=18" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+tools+that+solve+real+problems;Java+at+the+core%2C+full-stack+when+it+counts;Learning.+Building.+Growing.+%F0%9F%9A%80&amp;center=true&amp;width=550&amp;height=35&amp;color=39FF14&amp;vCenter=true&amp;size=18" />
 
-<img src="https://komarev.com/ghpvc/?username=saransid23&label=Profile%20Views&color=39FF14&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=saransid23&amp;label=Profile%20Views&amp;color=39FF14&amp;style=flat" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/saransid23?label=Followers&color=39FF14" />
+<img src="https://img.shields.io/github/followers/saransid23?label=Followers&amp;color=39FF14" />
 
 </div>
 
@@ -72,11 +72,11 @@ Video editing & cinematography portfolio built with Next.js, showcasing creative
 ## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,html,css,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,html,css,git&amp;theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransid23&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransid23&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 <br>
@@ -85,10 +85,10 @@ Video editing & cinematography portfolio built with Next.js, showcasing creative
 
 ## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/saransid23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github)](https://github.com/saransid23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](#)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:1e2327&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:39FF14,100:1e2327&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
