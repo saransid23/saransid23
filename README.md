@@ -80,13 +80,6 @@ Video editing & cinematography portfolio, built with Next.js.
 
 <br>
 
-## 📊 Habitat Report
-
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=saransid23&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=E8664A&amp;icon_color=5FA83C" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransid23&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;title_color=E8664A" />
-</p>
-
 <br>
 
 <div align="center">
