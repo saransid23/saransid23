@@ -87,7 +87,7 @@ Video editing & cinematography portfolio, built with Next.js.
 ## 📡 Send a Signal
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github)](https://github.com/saransid23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin)](#)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin](https://www.linkedin.com/in/saran-siddarth-s-b49662371?utm_source=share_via&utm_content=profile&utm_medium=member_android))](#)
 [![Email](https://img.shields.io/badge/Email-E8664A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](#)
 
 </div>
