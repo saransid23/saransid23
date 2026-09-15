@@ -31,14 +31,14 @@ Full-stack dev with a Java foundation, currently building AI-flavored tools for 
 <tr>
 <td width="50%" valign="top">
 
-**🌐 [import-sense-AI](https://github.com/saransid23/import-sense-AI)**
+** [import-sense-AI](https://github.com/saransid23/import-sense-AI)**
 Real landed-cost calculator for imports duties, GST, shipping, total, no surprises at checkout.
 `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-**🏙️ [city-care](https://github.com/saransid23/city-care)**
+** [city-care](https://github.com/saransid23/city-care)**
 Civic reporting platform potholes, water issues, hazards with AI sorting what's actually urgent.
 `JavaScript`
 
@@ -47,14 +47,14 @@ Civic reporting platform potholes, water issues, hazards with AI sorting what's 
 <tr>
 <td width="50%" valign="top">
 
-**🔗 [url-shortener](https://github.com/saransid23/url-shortener)**
+** [url-shortener](https://github.com/saransid23/url-shortener)**
 Lightweight Flask link shortener, deployed to the cloud. Does exactly what it says.
 `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**💼 [folio_saran](https://github.com/saransid23/folio_saran)**
+** [folio_saran](https://github.com/saransid23/folio_saran)**
 Personal portfolio showcasing AI-powered and full-stack work.
 `TypeScript`
 
@@ -63,7 +63,7 @@ Personal portfolio showcasing AI-powered and full-stack work.
 <tr>
 <td width="50%" valign="top">
 
-**🎬 [v_folio](https://github.com/saransid23/v_folio)**
+** [v_folio](https://github.com/saransid23/v_folio)**
 Video editing & cinematography portfolio, built with Next.js.
 `TypeScript`
 
