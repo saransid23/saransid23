@@ -15,7 +15,7 @@
 
 ## 📋 Description
 
-Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
+Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
 **Right now:** sharpening ML fundamentals and shipping small tools end-to-end.
 
@@ -32,14 +32,14 @@ Full-stack dev with a Java foundation, currently building AI-flavored tools for 
 <td width="50%" valign="top">
 
 **🌐 [import-sense-AI](https://github.com/saransid23/import-sense-AI)**
-Real landed-cost calculator for imports — duties, GST, shipping, total, no surprises at checkout.
+Real landed-cost calculator for imports duties, GST, shipping, total, no surprises at checkout.
 `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
 **🏙️ [city-care](https://github.com/saransid23/city-care)**
-Civic reporting platform — potholes, water issues, hazards — with AI sorting what's actually urgent.
+Civic reporting platform potholes, water issues, hazards with AI sorting what's actually urgent.
 `JavaScript`
 
 </td>
