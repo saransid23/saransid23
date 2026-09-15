@@ -50,9 +50,11 @@ Lightweight Flask link shortener, deployed to the cloud. Does exactly what it sa
 </td>
 <td width="50%" valign="top">
 
-**💼 [folio_saran](https://github.com/saransid23/folio_saran)**
+**💼 folio_saran**
 Personal portfolio showcasing AI-powered and full-stack work.
 `TypeScript`
+<br>
+[**🔗 View Portfolio**](https://github.com/saransid23/folio_saran)
 
 </td>
 </tr>
