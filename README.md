@@ -15,7 +15,7 @@
 
 ## 📋 Field Notes
 
-Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
+Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
 **Right now:** sharpening ML fundamentals and shipping small tools end-to-end.
 
@@ -35,7 +35,7 @@ Real landed-cost calculator for imports — duties, GST, shipping, total, no sur
 <td width="50%" valign="top">
 
 **🏙️ [city-care](https://github.com/saransid23/city-care)**
-Civic reporting platform potholes, water issues, hazards — with AI sorting what's actually urgent.
+Civic reporting platform — potholes, water issues, hazards — with AI sorting what's actually urgent.
 `JavaScript`
 
 </td>
@@ -80,14 +80,12 @@ Video editing & cinematography portfolio, built with Next.js.
 
 <br>
 
-<br>
-
 <div align="center">
 
 ## 📡 Send a Signal
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github)](https://github.com/saransid23)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin](https://www.linkedin.com/in/saran-siddarth-s-b49662371?utm_source=share_via&utm_content=profile&utm_medium=member_android))](#)
-[![Email](https://img.shields.io/badge/Email-E8664A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin)](https://www.linkedin.com/in/saran-siddarth-s-b49662371)
+[![Email](https://img.shields.io/badge/Email-E8664A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:saransid23@gmail.com)
 
 </div>
