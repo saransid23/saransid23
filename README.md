@@ -1,27 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=12,20,24&amp;height=220&amp;section=header&amp;text=SARAN%20SIDDARTH&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Full-Stack%20Dev%20%7C%20AI%20Tinkerer&amp;descAlignY=60&amp;descSize=17&amp;animation=fadeIn" width="100%"/>
+<img src="./banner.jpg" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%3E+compiling+ideas+into+code...;%3E+deploying+AI-powered+tools...;%3E+status%3A+always+learning...&amp;font=Fira+Code&amp;center=true&amp;width=520&amp;height=35&amp;color=00F5D4&amp;vCenter=true&amp;size=17&amp;background=00000000" />
+<h1>SARAN SIDDARTH</h1>
+<p><i>Full-Stack Developer · AI Tinkerer · professionally confused by his own code sometimes</i></p>
+
+<img src="https://komarev.com/ghpvc/?username=saransid23&amp;label=Profile%20Views&amp;color=E8664A&amp;style=flat" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/saransid23?label=Followers&amp;color=E8664A" />
 
 </div>
 
 <br>
 
+## 📋 Field Notes
+
+Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
+
+**Right now:** sharpening ML fundamentals and shipping small tools end-to-end.
+
+<br>
+
+## 🗂️ Specimens Collected (Projects)
+
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### 🛰️ Transmission
-Full-stack developer running on a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap I spot next.
-
-**Currently:** leveling up ML fundamentals and shipping small tools end-to-end.
+**🌐 [import-sense-AI](https://github.com/saransid23/import-sense-AI)**
+Real landed-cost calculator for imports — duties, GST, shipping, total, no surprises at checkout.
+`JavaScript`
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ Loadout
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask&amp;theme=dark" />
+**🏙️ [city-care](https://github.com/saransid23/city-care)**
+Civic reporting platform — potholes, water issues, hazards — with AI sorting what's actually urgent.
+`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔗 [url-shortener](https://github.com/saransid23/url-shortener)**
+Lightweight Flask link shortener, deployed to the cloud. Does exactly what it says.
+`Python`
+
+</td>
+<td width="50%" valign="top">
+
+**💼 [folio_saran](https://github.com/saransid23/folio_saran)**
+Personal portfolio showcasing AI-powered and full-stack work.
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎬 [v_folio](https://github.com/saransid23/v_folio)**
+Video editing & cinematography portfolio, built with Next.js.
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -29,27 +72,29 @@ Full-stack developer running on a Java foundation, currently building AI-flavore
 
 <br>
 
-### 🔮 Signal Log — Projects
+## 🎒 Field Kit
 
-- 🌐 **[import-sense-AI](https://github.com/saransid23/import-sense-AI)** — real landed-cost calculator for imports (duties, GST, shipping) · `JavaScript`
-- 🏙️ **[city-care](https://github.com/saransid23/city-care)** — civic reporting app with AI-based urgency tagging · `JavaScript`
-- 🔗 **[url-shortener](https://github.com/saransid23/url-shortener)** — lightweight Flask link shortener, cloud-deployed · `Python`
-- 💼 **[folio_saran](https://github.com/saransid23/folio_saran)** — personal AI/full-stack portfolio · `TypeScript`
-- 🎬 **[v_folio](https://github.com/saransid23/v_folio)** — video editing & cinematography portfolio · `TypeScript`
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,git&amp;theme=dark" />
+</p>
 
 <br>
 
+## 📊 Habitat Report
+
 <p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=saransid23&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransid23&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=saransid23&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=E8664A&amp;icon_color=5FA83C" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransid23&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;title_color=E8664A" />
 </p>
+
+<br>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=github&amp;logoColor=00F5D4)](https://github.com/saransid23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00F5D4)](#)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=00F5D4)](#)
+## 📡 Send a Signal
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=24,20,12&amp;height=120&amp;section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github)](https://github.com/saransid23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-E8664A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](#)
 
 </div>
