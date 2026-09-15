@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-widescreen.jpg" width="100%" alt="banner"/>
+<img src="banner-widescreen-enhanced.jpg" width="100%" alt="banner"/>
 
 <h1>SARAN SIDDARTH</h1>
 <p><i>Full-Stack Developer · AI Engineer · professionally confused by his own code sometimes</i></p>
