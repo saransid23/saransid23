@@ -3,7 +3,7 @@
 <img src="banner-widescreen.jpg" width="100%" alt="banner"/>
 
 <h1>SARAN SIDDARTH</h1>
-<p><i>Full-Stack Developer · AI Tinkerer · professionally confused by his own code sometimes</i></p>
+<p><i>Full-Stack Developer · AI Engineer · professionally confused by his own code sometimes</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=saransid23&amp;label=Profile%20Views&amp;color=E8664A&amp;style=flat" />
 &nbsp;
@@ -15,7 +15,7 @@
 
 ## 📋 Field Notes
 
-Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
+Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
 **Right now:** sharpening ML fundamentals and shipping small tools end-to-end.
 
@@ -35,7 +35,7 @@ Real landed-cost calculator for imports — duties, GST, shipping, total, no sur
 <td width="50%" valign="top">
 
 **🏙️ [city-care](https://github.com/saransid23/city-care)**
-Civic reporting platform — potholes, water issues, hazards — with AI sorting what's actually urgent.
+Civic reporting platform potholes, water issues, hazards — with AI sorting what's actually urgent.
 `JavaScript`
 
 </td>
