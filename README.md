@@ -13,7 +13,7 @@
 
 <br>
 
-## 📋 Description
+##  Description
 
 Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
@@ -25,7 +25,7 @@ Full-stack dev with a Java foundation, currently building AI-flavored tools for 
 
 <br>
 
-## 🗂️ Projects
+##  Projects
 
 | Project | Description | Stack | Repository |
 |---|---|:---:|:---:|
@@ -37,7 +37,7 @@ Full-stack dev with a Java foundation, currently building AI-flavored tools for 
 
 <br>
 
-## 🎒 Tool Kit
+##  Tool Kit
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,git&amp;theme=dark" />
