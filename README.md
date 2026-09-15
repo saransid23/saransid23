@@ -13,15 +13,19 @@
 
 <br>
 
-## 📋 Descrption
+## 📋 Field Notes
 
 Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
 **Right now:** sharpening ML fundamentals and shipping small tools end-to-end.
 
+<p align="center">
+<a href="https://github.com/saransid23/folio_saran"><img src="https://img.shields.io/badge/💼_View_My_Portfolio-E8664A?style=for-the-badge&amp;logoColor=white" /></a>
+</p>
+
 <br>
 
-## 🗂️ Projects
+## 🗂️ Specimens Collected (Projects)
 
 <table width="100%">
 <tr>
@@ -50,11 +54,9 @@ Lightweight Flask link shortener, deployed to the cloud. Does exactly what it sa
 </td>
 <td width="50%" valign="top">
 
-**💼 folio_saran**
+**💼 [folio_saran](https://github.com/saransid23/folio_saran)**
 Personal portfolio showcasing AI-powered and full-stack work.
 `TypeScript`
-<br>
-[**🔗 View Portfolio**](https://github.com/saransid23/folio_saran)
 
 </td>
 </tr>
@@ -74,7 +76,7 @@ Video editing & cinematography portfolio, built with Next.js.
 
 <br>
 
-## 🎒 Tool Kit
+## 🎒 Field Kit
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,git&amp;theme=dark" />
