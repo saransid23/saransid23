@@ -1,67 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e2327,100:39FF14&amp;height=200&amp;section=header&amp;text=Saran%20Siddarth&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+tools+that+solve+real+problems;Java+at+the+core%2C+full-stack+when+it+counts;Learning.+Building.+Growing.+%F0%9F%9A%80&amp;center=true&amp;width=550&amp;height=35&amp;color=39FF14&amp;vCenter=true&amp;size=18" />
-
-<img src="https://komarev.com/ghpvc/?username=saransid23&amp;label=Profile%20Views&amp;color=39FF14&amp;style=flat" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/saransid23?label=Followers&amp;color=39FF14" />
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Saran%20Siddarth&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=45&amp;desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder&amp;descAlignY=65&amp;descSize=16" width="100%"/>
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
-
-I'm a Full-Stack Developer with a strong Java foundation, currently focused on building practical, AI-powered applications — tools that take a real annoyance (customs math, city complaints, broken links) and turn it into something clean and usable.
+> *"I like taking annoying, everyday problems and quietly turning them into apps."*
 
 <br>
 
-## 🚀 Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**🌐 [import-sense-AI](https://github.com/saransid23/import-sense-AI)**
-Intelligent import compliance & true-cost calculator — estimates customs duties, GST, shipping, and total landed price for international purchases.
-`JavaScript`
+### 🧑‍💻 About
+Full-stack developer with a Java foundation, building AI-flavored tools that solve real, specific problems — from customs-cost math to civic complaint triage. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
-</td>
-<td width="50%" valign="top">
-
-**🏙️ [city-care](https://github.com/saransid23/city-care)**
-Full-stack civic platform where citizens report potholes, water issues, streetlights and hazards — AI keyword detection auto-assigns priority.
-`JavaScript`
+### 🎯 Focus Right Now
+- Sharpening ML fundamentals
+- Shipping small, useful tools end-to-end
+- Writing cleaner, more maintainable full-stack code
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-**🔗 [url-shortener](https://github.com/saransid23/url-shortener)**
-A simple, efficient URL shortener web app, built with Flask and deployed to the cloud on Render.
-`Python`
+### 🧰 Toolbox
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask&amp;theme=dark" />
 
-</td>
-<td width="50%" valign="top">
-
-**💼 [folio_saran](https://github.com/saransid23/folio_saran)**
-Personal portfolio showcasing AI-powered and full-stack projects, skills, and experience.
-`TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎬 [v_folio](https://github.com/saransid23/v_folio)**
-Video editing & cinematography portfolio built with Next.js, showcasing creative work and tools.
-`TypeScript`
-
-</td>
-<td width="50%" valign="top">
+### 📈 Language Mix
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransid23&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=00000000" />
 
 </td>
 </tr>
@@ -69,26 +37,49 @@ Video editing & cinematography portfolio built with Next.js, showcasing creative
 
 <br>
 
-## 🛠️ Languages & Tools
+### 🗂️ Project Shelf
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,html,css,git&amp;theme=dark" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransid23&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
-</p>
+<table width="100%">
+<tr>
+<th align="left">Project</th>
+<th align="left">What it does</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><a href="https://github.com/saransid23/import-sense-AI">import-sense-AI</a></td>
+<td>Calculates real landed cost of imports — duties, GST, shipping, total</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td><a href="https://github.com/saransid23/city-care">city-care</a></td>
+<td>Civic reporting platform with AI-based urgency tagging</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td><a href="https://github.com/saransid23/url-shortener">url-shortener</a></td>
+<td>Lightweight Flask URL shortener, deployed to the cloud</td>
+<td>Python</td>
+</tr>
+<tr>
+<td><a href="https://github.com/saransid23/folio_saran">folio_saran</a></td>
+<td>Personal portfolio site for AI & full-stack work</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td><a href="https://github.com/saransid23/v_folio">v_folio</a></td>
+<td>Video editing & cinematography portfolio</td>
+<td>TypeScript</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-## 📫 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-6e5494?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/saransid23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Reach_out-c9184a?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](#)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github)](https://github.com/saransid23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](#)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:39FF14,100:1e2327&amp;height=100&amp;section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=gradient&amp;customColorList=20,11,6&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
