@@ -13,9 +13,9 @@
 
 <br>
 
-##  Description
+## 📋 Description
 
-Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
+Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
 **Right now:** sharpening ML fundamentals and shipping small tools end-to-end.
 
@@ -25,19 +25,21 @@ Full-stack dev with a Java foundation, currently building AI-flavored tools for 
 
 <br>
 
-##  Projects
+## 🗂️ Projects
 
 | Project | Description | Stack | Repository |
 |---|---|:---:|:---:|
-| **import-sense-AI** | Real landed-cost calculator for imports duties, GST, shipping, total, no surprises at checkout. | `Python` | [GitHub](https://github.com/saransid23/import-sense-AI) |
-| **city-care** | Civic reporting platform potholes, water issues, hazards — with AI sorting what's actually urgent. | `JavaScript` | [GitHub](https://github.com/saransid23/city-care) |
+| **import-sense-AI** | Real landed-cost calculator for imports — duties, GST, shipping, total, no surprises at checkout. | `JavaScript` | [GitHub](https://github.com/saransid23/import-sense-AI) |
+| **city-care** | Civic reporting platform — potholes, water issues, hazards — with AI sorting what's actually urgent. | `JavaScript` | [GitHub](https://github.com/saransid23/city-care) |
 | **url-shortener** | Lightweight Flask link shortener, deployed to the cloud. Does exactly what it says. | `Python` | [GitHub](https://github.com/saransid23/url-shortener) |
 | **folio_saran** | Personal portfolio showcasing AI-powered and full-stack work. | `TypeScript` | [GitHub](https://github.com/saransid23/folio_saran) |
 | **v_folio** | Video editing & cinematography portfolio, built with Next.js. | `TypeScript` | [GitHub](https://github.com/saransid23/v_folio) |
+| **tubemint** | Self-hosted YouTube video inspector & downloader — pulls metadata, detects resolutions up to 4K, and converts audio to MP3, built with FastAPI, yt-dlp and FFmpeg. | `HTML` | [GitHub](https://github.com/saransid23/tubemint) |
+| **Spencer-AI-bot** | Python-based voice assistant that thinks and solves problems like an engineer, researcher, or consultant — with a built-in problem-solving framework and coding/debugging help. | `JavaScript` | [GitHub](https://github.com/saransid23/Spencer-AI-bot) |
 
 <br>
 
-##  Tool Kit
+## 🎒 Tool Kit
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nextjs,flask,git&amp;theme=dark" />
