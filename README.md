@@ -35,8 +35,8 @@ Full-stack dev with a Java foundation, currently building AI-flavored tools for 
 | **folio_saran** | Personal portfolio showcasing AI-powered and full-stack work. | `TypeScript` | [GitHub](https://github.com/saransid23/folio_saran) |
 | **v_folio** | Video editing & cinematography portfolio, built with Next.js. | `TypeScript` | [GitHub](https://github.com/saransid23/v_folio) |
 | **tubemint** | Self-hosted YouTube video inspector & downloader pulls metadata, detects resolutions up to 4K, and converts audio to MP3, built with FastAPI, yt-dlp and FFmpeg. | `HTML` | [GitHub](https://github.com/saransid23/tubemint) |
-| **Spencer-AI-bot** | Python-based voice assistant that thinks and solves problems like an engineer, researcher, or consultant — with a built-in problem-solving framework and coding/debugging help. | `JavaScript` | [GitHub](https://github.com/saransid23/Spencer-AI-bot) |
-| **picsell** | Professional photo preset studio — 108 live presets across 9 categories, real-time manual adjustments, rotate/flip, before/after comparison, and high-res JPEG export. | `Python` | [GitHub](https://github.com/saransid23/picsell) |
+| **Spencer-AI-bot** | Python-based voice assistant that thinks and solves problems like an engineer, researcher, or consultant with a built-in problem-solving framework and coding/debugging help. | `JavaScript` | [GitHub](https://github.com/saransid23/Spencer-AI-bot) |
+| **picsell** | Professional photo preset studio 108 live presets across 9 categories, real-time manual adjustments, rotate/flip, before/after comparison, and high-res JPEG export. | `Python` | [GitHub](https://github.com/saransid23/picsell) |
 
 <br>
 
