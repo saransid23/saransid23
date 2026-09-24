@@ -30,7 +30,7 @@ Full-stack dev with a Java foundation, currently building AI-flavored tools for 
 | Project | Description | Stack | Repository |
 |---|---|:---:|:---:|
 | **import-sense-AI** | Real landed-cost calculator for imports duties, GST, shipping, total, no surprises at checkout. | `JavaScript` | [GitHub](https://github.com/saransid23/import-sense-AI) |
-| **city-care** | Civic reporting platform — potholes, water issues, hazards with AI sorting what's actually urgent. | `JavaScript` | [GitHub](https://github.com/saransid23/city-care) |
+| **city-care** | Civic reporting platform potholes, water issues, hazards with AI sorting what's actually urgent. | `JavaScript` | [GitHub](https://github.com/saransid23/city-care) |
 | **url-shortener** | Lightweight Flask link shortener, deployed to the cloud. Does exactly what it says. | `Python` | [GitHub](https://github.com/saransid23/url-shortener) |
 | **folio_saran** | Personal portfolio showcasing AI-powered and full-stack work. | `TypeScript` | [GitHub](https://github.com/saransid23/folio_saran) |
 | **v_folio** | Video editing & cinematography portfolio, built with Next.js. | `TypeScript` | [GitHub](https://github.com/saransid23/v_folio) |
