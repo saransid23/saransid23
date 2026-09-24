@@ -15,7 +15,7 @@
 
 ## 📋 Description
 
-Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems — import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
+Full-stack dev with a Java foundation, currently building AI-flavored tools for real, specific problems import-cost math, civic-issue triage, and whatever annoying gap shows up next. Comfortable moving across the stack: backend logic, frontend polish, and everything that connects them.
 
 **Right now:** sharpening ML fundamentals and shipping small tools end-to-end.
 
